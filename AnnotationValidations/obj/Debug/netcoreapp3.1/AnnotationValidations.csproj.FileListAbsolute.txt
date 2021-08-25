@@ -1,0 +1,13 @@
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\bin\Debug\netcoreapp3.1\AnnotationValidations.exe
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\bin\Debug\netcoreapp3.1\AnnotationValidations.deps.json
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\bin\Debug\netcoreapp3.1\AnnotationValidations.runtimeconfig.json
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\bin\Debug\netcoreapp3.1\AnnotationValidations.runtimeconfig.dev.json
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\bin\Debug\netcoreapp3.1\AnnotationValidations.dll
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\bin\Debug\netcoreapp3.1\AnnotationValidations.pdb
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.csproj.AssemblyReference.cache
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.AssemblyInfoInputs.cache
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.AssemblyInfo.cs
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.csproj.CoreCompileInputs.cache
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.dll
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.pdb
+C:\Users\bkukrej\source\repos\AnnotationValidations\AnnotationValidations\obj\Debug\netcoreapp3.1\AnnotationValidations.genruntimeconfig.cache
